@@ -12,10 +12,10 @@ import logging
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 DB_CONFIG = {
-    "host": "localhost",
-    "database": "telegram_bot",
-    "user": "postgres",
-    "password": "jigu7878",   # password you set during installation
+    "host": "dpg-dbhdhj142hec73c5sdhg-a",
+    "database": "db_name_vkad",
+    "user": "jigu7878",
+    "password": "3eieV2q9yYsvXWEZMvy3EqtmpTRF1tcH",   # password you set during installation
     "port": 5432
 }
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
