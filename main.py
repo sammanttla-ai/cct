@@ -45,7 +45,7 @@ from mass_gates.sitechk import (
 
 import payments as pay_sys
 
-BOT_TOKEN = "7018536344:AAE48CaS7LsenMKnCVGZA9ZjaSOybVP7Ww0"
+BOT_TOKEN = "7688322079:AAEfUKmBVPP03Zp1LqUevySCJJFk_7744gA"
 WEBHOOK_URL = "https://cleaners-beam-ethical-drew.trycloudflare.com/8979001589:AAFiBvepjdZbHPNYI-yXSXVdwZ9EAfd6bDQ"
 WEBHOST = "0.0.0.0"
 WEBPORT = 8080
